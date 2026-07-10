@@ -1,2 +1,5 @@
-# SCMF-bottlebrush-melts
-SCMF simulation of bottlebrush polymer melts (homopolymer, binary blend, shape-defined)
+# ISC model for bottlebrush polymer melts
+This repository contains three parts
+1. Single-chain in mean-field (SCMF) simulation of explicit side-chain (ESC) model in melts for homopolymers, blend, and shape-defined bottlebrush polymers
+2. Iterative Boltzmann Inversion (IBI) of ISC model for deriving potential of mean force (PMF)
+3. Structural analysis (S(q)) of self-assembled structure in ISC model. 
