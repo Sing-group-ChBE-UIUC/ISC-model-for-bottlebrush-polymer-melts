@@ -2,4 +2,3 @@
 This repository contains three parts
 1. Single-chain in mean-field (SCMF) simulation of explicit side-chain (ESC) model in melts 
 2. Iterative Boltzmann Inversion (IBI) of ISC model for deriving potential of mean force (PMF)
-3. Structural analysis (S(q)) of self-assembled structure in ISC model. 
